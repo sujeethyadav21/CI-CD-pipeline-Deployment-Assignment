@@ -1,0 +1,24 @@
+{
+  "name": "ci-cd-pipeline-deployment-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujeethyadav21/CI-CD-pipeline-Deployment-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujeethyadav21/CI-CD-pipeline-Deployment-Assignment/issues"
+  },
+  "homepage": "https://github.com/sujeethyadav21/CI-CD-pipeline-Deployment-Assignment#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
